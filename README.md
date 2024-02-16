@@ -7,4 +7,4 @@ This repository provides a collection of functions for cleaning and preprocessin
 
 ## Tokenization: Functions for tokenizing text into word-level or subword-level units are provided. Tokenization is a crucial step in NLP tasks as it divides text into meaningful units for further analysis.
 # Contribution
-Contributions to this repository are welcome. If you find any issues or have ideas for new features, please open an issue or submit a pull request.
+  Contributions to this repository are welcome. If you find any issues or have ideas for new features, please open an issue or submit a pull request.
